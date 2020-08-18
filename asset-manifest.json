@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Todo-React/static/css/main.91306872.chunk.css",
+    "main.js": "/Todo-React/static/js/main.f8fd5c98.chunk.js",
+    "main.js.map": "/Todo-React/static/js/main.f8fd5c98.chunk.js.map",
+    "runtime-main.js": "/Todo-React/static/js/runtime-main.c523feda.js",
+    "runtime-main.js.map": "/Todo-React/static/js/runtime-main.c523feda.js.map",
+    "static/js/2.1a2fec60.chunk.js": "/Todo-React/static/js/2.1a2fec60.chunk.js",
+    "static/js/2.1a2fec60.chunk.js.map": "/Todo-React/static/js/2.1a2fec60.chunk.js.map",
+    "index.html": "/Todo-React/index.html",
+    "precache-manifest.21986c272434d00c9fce2379c42afab1.js": "/Todo-React/precache-manifest.21986c272434d00c9fce2379c42afab1.js",
+    "service-worker.js": "/Todo-React/service-worker.js",
+    "static/css/main.91306872.chunk.css.map": "/Todo-React/static/css/main.91306872.chunk.css.map",
+    "static/js/2.1a2fec60.chunk.js.LICENSE.txt": "/Todo-React/static/js/2.1a2fec60.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c523feda.js",
+    "static/js/2.1a2fec60.chunk.js",
+    "static/css/main.91306872.chunk.css",
+    "static/js/main.f8fd5c98.chunk.js"
+  ]
+}
