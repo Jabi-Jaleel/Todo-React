@@ -67,5 +67,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-###Fix react scripts is not recognized as an internal or external command
+### Fix react scripts is not recognized as an internal or external command
 npm i -g react-scripts
